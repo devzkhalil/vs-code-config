@@ -1,4 +1,4 @@
-`{
+{
     "workbench.iconTheme": "material-icon-theme",
     "cursor.cpp.disabledLanguages": [
         "plaintext",
@@ -21,4 +21,4 @@
         "markdown": false,
         "scminput": false
     }
-}`
+}
